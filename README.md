@@ -65,7 +65,7 @@ In Markdown – oft auch als Markup bezeichnet – gibt es verschiedene Styles (
 - **Syntax:** `![Alt-Text](URL)`
 - **Definition:** Fügt ein Bild ein.
 - **Beispiel:**  
-  ![Beispielbild]()
+  ![Beispielbild](GitHubLogo.png)
 
 ### 11. Horizontale Linie
 - **Syntax:** `---` oder `***`
