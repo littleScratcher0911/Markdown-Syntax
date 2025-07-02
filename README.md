@@ -71,6 +71,8 @@ In Markdown – oft auch als Markup bezeichnet – gibt es verschiedene Styles (
 - **Syntax:** `---` oder `***`
 - **Definition:** Fügt eine horizontale Linie ein.
 
+### 12. Kontrollkästchen
+- **Syntax:** `[]`
 ---
 
 **Hinweis:**  
