@@ -72,8 +72,11 @@ In Markdown – oft auch als Markup bezeichnet – gibt es verschiedene Styles (
 - **Definition:** Fügt eine horizontale Linie ein.
 
 ### 12. Kontrollkästchen
-- **Syntax:** `[]`
----
+- **Syntax:** `[ ]` oder `[x]`
+- **Definition:** Fügt ein Kontrollkästchen mit einem festem Wert ein.
+- **Beispiel:**
+- [ ] Noch offen
+- [x] Erledigt
 
 **Hinweis:**  
 Markdown kann je nach Plattform (z.B. GitHub, Discord, Stack Overflow) leicht unterschiedlich interpretiert werden. Manche Plattformen bieten zusätzliche Styles wie Tabellen, Kontrollkästchen, Fußnoten oder spezielle Formatierungen für Aufgabenlisten.
