@@ -35,9 +35,12 @@ In Markdown – oft auch als Markup bezeichnet – gibt es verschiedene Styles (
 - **Syntax:** `#` bis `######` vor dem Text
 - **Definition:** Erzeugt Überschriften verschiedener Ebenen.
 - **Beispiel:**  
-  # Überschrift 1  
-  ## Überschrift 2  
-  ### Überschrift 3
+# Titel 1
+## Titel 2
+### Titel 3
+#### Titel 4
+##### Titel 5
+###### Titel 6
 
 ### 7. Listen
 - **Syntax:** `-`, `*` oder `+` für Aufzählungen  
